@@ -1,0 +1,141 @@
+/* Universal Selector margin/padding Reset */
+* { margin:0; padding:0; }
+body {
+  background:#ccc url(images/body-bg.jpg) repeat-x 0 0;
+}
+p {
+  font:normal 13px/20px Verdana, Geneva, sans-serif;
+  color:#333;
+  padding:0;
+  margin:10px 0 10px 0px;
+}
+#container {
+  width:950px;
+  margin:0 auto;
+}
+#masthead h1 {
+  display:block;
+  float:left;
+  width:269px;
+  height:121px;
+  text-indent:-9999px;
+}
+#masthead h1 a {
+  display:block;
+  width:100%;
+  height:100%;
+  background:url(images/logo.jpg) no-repeat 0 0;
+  outline:none;
+}
+#masthead ul {
+  display:block;
+  float:left;
+  height:121px;
+  list-style:none;
+  background:url(images/nav-sprite.jpg) no-repeat 0 0;
+}
+#masthead ul li {
+  display:block;
+  height:121px;
+  float:left;
+}
+#home {
+  width:115px;
+}
+#portfolio {
+  width:160px;
+}
+#services {
+  width:144px;
+}
+#contact {
+  width:147px;
+}
+#masthead ul li a {
+  display:block;
+  width:100%;
+  height:100%;
+  text-indent:-9999px;
+  outline:none;
+}
+li#home a:hover {
+  background:url(images/nav-sprite.jpg) no-repeat 0 -121px;
+}
+li#portfolio a:hover {
+  background:url(images/nav-sprite.jpg) no-repeat -115px -121px;
+}
+li#services a:hover {
+  background:url(images/nav-sprite.jpg) no-repeat -275px -121px;
+}
+li#contact a:hover {
+  background:url(images/nav-sprite.jpg) no-repeat -419px -121px;
+}
+#featured-area {
+  clear:both;
+  height:304px;
+  background:url(images/bg-featured.jpg) no-repeat 0 0;
+}
+#description {
+  width:455px;
+  margin:55px 0 55px 20px;
+  float:left;
+}
+#description p {
+  font:bold 30px/32px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color:#fff;
+}
+#preview {
+  width:445px;
+  margin:55px 20px 55px 0;
+  float:right;
+}
+#main-content {
+  width:100%;
+  float:left;
+}
+#left-column {
+  width:430px;
+  margin-left:20px;
+  float:left;
+}
+#right-column {
+  width:475px;
+  float:right;
+}
+h2#about-us {
+  display:block;
+  width:100%;
+  height:45px;
+  text-indent:-9999px;
+  background:url(images/text-about.jpg) no-repeat 0 0;
+}
+h2#featured-work {
+  display:block;
+  width:100%;
+  height:45px;
+  text-indent:-9999px;
+  background: url(images/text-featured.jpg) no-repeat 0 0;
+  clear:both;
+}
+div.featured {
+  width:100%;
+  height:166px;
+  padding:10px 0 0 10px;
+  background: url(images/featured-work-bg.jpg) no-repeat 0 0;
+}
+div.featured div.content {
+  width:455px;
+  height:146px;
+}
+#footer {
+  clear:both;
+  background-color:#333;
+}
+#footer p {
+  margin:0 auto;
+  padding:0;
+  width:950px;
+  color:#ccc;
+  height:50px;
+  line-height:50px;
+}

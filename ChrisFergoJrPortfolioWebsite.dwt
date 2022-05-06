@@ -1,0 +1,143 @@
+<html>
+<head>
+<title>Chris Fergo Jr Portfolio | Home</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+   <link rel="shortcut icon" href="favicon.ico" >
+   <link rel="icon" type="image/gif" href="animated_favicon1.gif" >
+</head>
+ <style>
+ {
+	 margin: 0;
+	 padding: 0;
+ }
+ 
+ body {
+	 text-align: center;
+ }
+ 
+ body {
+	 vertical-align: top;
+	 text-align: -moz-center;
+ }
+ 
+ #wrapper {
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 1280px;
+ 	text-align: left;
+ 	}
+</style> 
+<body background="images/Background.jpg" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/about_rollover.jpg','images/contact_rollover.jpg','images/fw_banner1.jpg','images/fw_banner2.jpg')">
+<!-- Save for Web Slices (Home Page template.psd) -->
+<table id="Table_01" width="1280" height="901" border="0" cellpadding="0" cellspacing="0">
+<tr>
+		<td colspan="11">
+			<img src="images/Home-Page-template_01.jpg" width="1280" height="10" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+		  <img src="images/logo.jpg" width="222" height="107" alt=""></td>
+		<td><a href="index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image35','','images/home_blue_rollover.jpg',0)"><img src="images/home_blue.jpg" name="Image35" width="144" height="107" border="0"></a></td>
+		<td><a href="about.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image37','','images/about_rollover.jpg',1)"><img src="images/about.jpg" name="Image37" width="155" height="107" border="0"></a></td>
+		<td colspan="2"><a href="portfolio.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image38','','images/portfolio_rollover.jpg',0)"><img src="images/portfolio.jpg" name="Image38" width="200" height="107" border="0"></a></td>
+		<td><a href="resume.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image39','','images/resume_rollover.jpg',0)"><img src="images/resume.jpg" name="Image39" width="168" height="107" border="0"></a></td>
+		<td><a href="contact.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image40','','images/contact_rollover.jpg',1)"><img src="images/contact.jpg" name="Image40" width="178" height="107" border="0"></a></td>
+		<td colspan="2">
+			<img src="images/Home-Page-template_08.jpg" width="213" height="107" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="11">
+			<img src="images/Home-Page-template_09.jpg" width="1280" height="41" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/Home-Page-template_10.jpg" width="49" height="281" alt=""></td>
+		<td colspan="9">
+			<img src="images/banner.jpg" width="1181" height="281" alt=""></td>
+		<td>
+			<img src="images/Home-Page-template_12.jpg" width="50" height="281" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/Home-Page-template_13.jpg" width="71" height="74" alt=""></td>
+		<td colspan="4">
+			<img src="images/news.jpg" width="569" height="74" alt=""></td>
+		<td colspan="4">
+			<img src="images/featured_work.jpg" width="590" height="74" alt=""></td>
+		<td>
+			<img src="images/Home-Page-template_16.jpg" width="50" height="74" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="4">
+			<img src="images/Home-Page-template_17.jpg" width="71" height="342" alt=""></td>
+		<td colspan="4" rowspan="4">
+    <img src="images/bodytext.jpg" width="569" height="342" alt=""></td>
+		<td colspan="4"><a href="websitedesign.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image36','','images/fw_banner1.jpg',1)"><img src="images/fw_banner1.jpg" name="Image36" width="590" height="141" border="0"></a></td>
+		<td rowspan="4">
+			<img src="images/Home-Page-template_20.jpg" alt="" width="50" height="342"></td>
+	</tr>
+	<tr>
+		<td colspan="4">
+			<img src="images/Home-Page-template_21.jpg" width="590" height="26" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="4"><a href="photoshopart.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image41','','images/fw_banner2.jpg',1)"><img src="images/fw_banner2.jpg" name="Image41" width="590" height="141" border="0"></a></td>
+	</tr>
+	<tr>
+		<td colspan="4">
+			<img src="images/Home-Page-template_23.jpg" width="590" height="34" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="11">
+			<img src="images/bottom_banner.jpg" alt="" width="1280" height="45"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/spacer.gif" width="49" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="22" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="151" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="144" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="155" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="119" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="81" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="168" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="178" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="163" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="50" height="1" alt=""></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
